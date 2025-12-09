@@ -5,7 +5,7 @@ import MobileMenu from "../Mobile-Menu"
 const AccountLinks = () => {
 
     return (
-       <div className="flex items-center gap-4  sm:gap-2">
+       <div className="flex items-center gap-4 sm:gap-2 md:gap-3">
         <NavItems/>
         
         <div className="flex items-center gap-2">
